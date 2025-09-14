@@ -51,7 +51,7 @@ A beautiful, modern, and fully animated civic issue reporting platform built wit
 
 ### Admin Access
 - **Email:** `admin@example.com`
-- **Password:** `admin123`
+- **Password:** ``
 
 ### Citizen Access
 - Register with any email to create a citizen account
