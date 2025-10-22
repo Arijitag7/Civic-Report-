@@ -1,7 +1,7 @@
 # 🏛️ Animated Civic Issue Reporting Platform
 
 A beautiful, modern, and fully animated civic issue reporting platform built with Next.js, Tailwind CSS, and Framer Motion. This standalone frontend application allows citizens to report civic issues and track their resolution in real-time.
-
+Website Link:-http://civic-report-platform.vercel.app/
 ## ✨ Features
 
 - 🎨 **Beautiful Animations** - Smooth transitions and micro-interactions using Framer Motion
